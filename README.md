@@ -3,6 +3,11 @@
 ## Description
 This is a Telegram bot for conducting quizzes, developed using aiogram 3.x and YDB (Yandex Database). The bot is deployed as a serverless application using Yandex Cloud Functions.
 
+## Live demo
+```
+https://t.me/edu_02_test_o_bot
+```
+
 ## Main Features
 - Conducting multiple-choice quizzes
 - Tracking user progress
